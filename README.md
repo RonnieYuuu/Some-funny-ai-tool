@@ -8,3 +8,4 @@ The inspiration comes from the fact that I want to develop a language learning a
 #AI辩论
 简单写了个ai辩论小工具，只要自己配制好api key，可以调用市面上任何主流的模型的各种版本进行辩论，功能实现上并不难，后续想加上UI界面和更多有意思的玩法，比如语音，幻想着ai数字人或机器人或许真的有一天能够表演奇葩说那样的节目哈哈哈
 Simply write an ai debate gadget, as long as they formulate a good api key, you can call any mainstream model on the market for the various versions of the debate, the function is not difficult to realize, the follow-up would like to add the UI interface and more interesting to play, such as voice.
+（2025.06.03 使用gradio 辩论有了交互界面）
